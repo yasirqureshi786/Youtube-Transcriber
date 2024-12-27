@@ -11,26 +11,20 @@ This is a Python-based web application that allows users to fetch transcripts an
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yasirqureshi786/Youtube_Transcriber_Web-APP.git
    cd Youtube_Transcriber_Web-APP
 
 ## Install the required dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
-
 
 ## Run the application:
 
-Copy code
 python app.py
 Open the application in your web browser:
 
-Copy code
-
 ## Run Command 
+
 Open teminal cmd and type
 Streamlit run app.py
 
