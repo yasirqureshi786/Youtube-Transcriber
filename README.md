@@ -21,7 +21,6 @@ bash
 Copy code
 pip install -r requirements.txt
 
-## Usage
 
 ## Run the application:
 
@@ -37,6 +36,8 @@ Streamlit run app.py
 
 http://localhost:5000
 Enter the YouTube video link and click "Submit" to fetch the transcript and summary.
+
+## Screenshot of Usage
 ![image](https://github.com/user-attachments/assets/5ce0df52-41e2-4696-baa2-63f42aeeb54e)
 
 ![image](https://github.com/user-attachments/assets/db57f5a2-e612-4bd3-b158-4a40abd6a667)
