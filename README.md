@@ -33,11 +33,8 @@ Enter the YouTube video link and click "Submit" to fetch the transcript and summ
 
 ## Screenshot of Usage
 ![image](https://github.com/user-attachments/assets/5ce0df52-41e2-4696-baa2-63f42aeeb54e)
-
-![image](https://github.com/user-attachments/assets/db57f5a2-e612-4bd3-b158-4a40abd6a667)
-
-![image](https://github.com/user-attachments/assets/35dbdc21-9c73-4151-85c8-d98710bfdec4)
-
-![image](https://github.com/user-attachments/assets/5809a660-d192-4288-ad09-6441cbd6949f)
+![Screenshot (19)](https://github.com/user-attachments/assets/9249b290-d484-442f-b32d-2232d847e0a5)
+![Screenshot (20)](https://github.com/user-attachments/assets/0155c16c-1956-4e87-9467-e16ccc882406)
+![Screenshot 2025-01-06 170605](https://github.com/user-attachments/assets/7112d20a-5b2c-4949-9402-f9198c302b1d)
 
 
